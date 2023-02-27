@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://user-images.githubusercontent.com/83532405/221624236-1b4d2657-fc23-4c00-9852-effd26f3a110.png)](https://kuldeepyeware.com) -->
+[![MasterHead](https://user-images.githubusercontent.com/83532405/221625925-e82636c3-7187-440d-ba05-fdd7d0e72141.png)](https://kuldeepyeware.com)
 <h1 align="center">Hi 👋, I'm Kuldeep Yeware</h1>
 <h3 align="center">Blockchain Developer from INDIA🇮🇳</h3>
 <img align="right" alt="Coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kuldeepyeware" target="blank"><img src="https://img.shields.io/twitter/follow/kuldeepyeware?logo=twitter&style=for-the-badge" alt="kuldeepyeware" /></a> </p>
 
-- 🌱 I’m currently learning **Web3,Frontend Skills**
+- 🌱 I’m currently learning **Web3, Frontend Skills**
 
 - 📝 I regularly write articles on [https://kuldeepyeware.hashnode.dev/](https://kuldeepyeware.hashnode.dev/)
 
@@ -33,8 +33,15 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kuldeepyeware"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kuldeepyeware" /></a></p><br><br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeepyeware&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kuldeepyeware" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeepyeware&show_icons=true&locale=en&theme=tokyonight" alt="rkuldeepyeware" /></p>
 
